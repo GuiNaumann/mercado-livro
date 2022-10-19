@@ -7,6 +7,6 @@ import org.springframework.boot.runApplication
 class MercadoLivroApplication
 
 fun main(args: Array<String>) {
-	println("Hello World")
+	//Vitera passou a rola aqui
 	runApplication<MercadoLivroApplication>(*args)
 }
